@@ -16,8 +16,7 @@ Este es un proyecto Frontend, se compone de:
 El proyecto es un "diseño UI/UX estático"
 No contiene codigo de funcionalidad, mas alla de efectos, color, etc, hechos en CSS.
 
-========================================================================================================================================================================================
-
+===========================================================================
 2. PANEL DE USUARIOS REGISTRADOS (MVC)
 
 Este proyecto cuenta con la siguiente estructura:
@@ -58,4 +57,4 @@ Este es un proyecto Frontend, se compone de:
 
   -- chatgpt.crx
   
-========================================================================================================================================================================================
+===========================================================================

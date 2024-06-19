@@ -31,20 +31,27 @@ Este es un proyecto Frontend, se compone de:
 - 5 ARCHIVOS HTML
   
   -- login-registro.html
+
   -- index.html
+
   -- chatgpt.html
+
   -- recuperar_contraseña.html
+
   -- exportar.html
 
 - 2 ARCHIVOS CSS
 
   -- buttonDownload.css
+
   -- gpt.css
+
   -- styles.css
 
 - 2 ARCHIVOS JAVASCRIPT
   
   -- script.js
+
   -- gpt.js
 
 - 1 ARCHIVO .CRX (EXTENSION)

@@ -6,6 +6,7 @@ Este es un proyecto Frontend, se compone de:
 - 2 ARCHIVOS HTML
   
   -- login.html
+
   -- registro.html
   
 - 1 ARCHIVOS CSS

@@ -18,6 +18,7 @@ No contiene codigo de funcionalidad, mas alla de efectos, color, etc, hechos en 
 ========================================================================================================================================================================================
 
 2. PANEL DE USUARIOS REGISTRADOS (MVC)
+
 Este proyecto cuenta con la siguiente estructura:
 - Accedes mediante un Login / Registro, dependiendo de tu rol y confirmacion mediante una clave unica, podras ser ADMINISTRADOR o USUARIO X.
 - En el panel principal o index, podras ver dos tipos de inferfaces basados en tu rol previamente seleccionado por la clave unica.
@@ -26,7 +27,6 @@ Este proyecto cuenta con la siguiente estructura:
 NOTA: De no tener una API Key, podras usar el boton Downlodad dentro del panel chatgpt.html e instalar la extesnion de CHAT GPT.
 
 Este es un proyecto Frontend, se compone de:
-
 - 5 ARCHIVOS HTML
   
   -- login-registro.html
